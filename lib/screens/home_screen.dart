@@ -221,7 +221,6 @@ class HomeScreen extends StatelessWidget {
                               'assets/14.png',
                               scale: 8,
                             ),
-
                             const Column(
                               crossAxisAlignment: CrossAxisAlignment.start,
                               children: [
